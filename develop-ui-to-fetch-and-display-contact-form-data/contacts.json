@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "firstname": "Shalini",
+      "lastname": "Mondal",
+      "email": "ss@gmail.com",
+      "homeNo": "9632147852",
+      "workNo": "9874123654",
+      "birthdate": "2000-02-09",
+      "company": "niit",
+      "jobTitle": "niit",
+      "notes": "fhhdhdd",
+      "id": 1
+    },
+    {
+      "firstname": "moumita",
+      "lastname": "roy",
+      "email": "mr@gmail.com",
+      "homeNo": "9632147852",
+      "workNo": "9874123654",
+      "birthdate": "2003-07-02",
+      "company": "zcv",
+      "jobTitle": "nb",
+      "notes": "bbzfs",
+      "id": 2
+    },
+    {
+      "firstname": "soumi",
+      "lastname": "pal",
+      "email": "ss@gmail.com",
+      "homeNo": "9632147852",
+      "workNo": "9874123654",
+      "birthdate": "1999-02-09",
+      "company": "ok",
+      "jobTitle": "cdza",
+      "notes": "dvvsvs",
+      "id": 3
+    },
+    {
+      "firstname": "Ayan",
+      "lastname": "Ghosh",
+      "email": "ag@gmail.com",
+      "homeNo": "9632147852",
+      "workNo": "9874123654",
+      "birthdate": "2003-07-04",
+      "company": "niit",
+      "jobTitle": "cdza",
+      "notes": "fsfs",
+      "id": 4
+    }
+  ]
+}
